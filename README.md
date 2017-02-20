@@ -10,7 +10,7 @@ Press 'E' to win as soon as you reach the top level!
 
 ![alt-tag](https://cloud.githubusercontent.com/assets/10997512/23131102/76a26718-f791-11e6-9e01-7d10b57a90cd.PNG)
 
-You gain points as you smash boxes and sometimes collect hammers. Each hammer has its own hammerLife so use them with causion.
+You lose points as time pases and by smashing boxes sometimes you find hammers. Each hammer has its own hammerLife so use them with causion.
 
 It utilizes the standar unity movement contror (W,A,S,D,space) and the left click to control the hammer.
 ![alt-tag](https://cloud.githubusercontent.com/assets/10997512/23131101/769a8642-f791-11e6-9017-6583d5511aad.PNG)
